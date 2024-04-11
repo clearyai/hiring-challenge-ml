@@ -1,4 +1,4 @@
-# Cleary Prototype
+# REMATIQ / Cleary Hiring Challenge ML
 
 ## Task
 
