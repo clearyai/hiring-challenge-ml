@@ -1,0 +1,1014 @@
+ElementType,Class,Style,Value
+html,[],,ICS 11.040.99C 40Professional Standard of the People's Republic of ChinaYY/T 0944-2014Medical endoscopes - Endotherapydevice - Separating forceps医用内窥镜 内窥镜器械 分离钳(English translation)Issue date: 2014-06-17Implementation date: 2015-07-01Issued by the China Food and Drug Administration
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+@font-face { font-family: ff0; src: url(""0.ttf""); }
+.f3 { font-family:ff0,sans-serif; font-weight:normal; font-style:normal; }
+@font-face { font-family: ff1; src: url(""1.ttf""); }
+.f4 { font-family:ff1,monospace; font-weight:normal; font-style:normal; }"
+body,[],,ICS 11.040.99C 40Professional Standard of the People's Republic of ChinaYY/T 0944-2014Medical endoscopes - Endotherapydevice - Separating forceps医用内窥镜 内窥镜器械 分离钳(English translation)Issue date: 2014-06-17Implementation date: 2015-07-01Issued by the China Food and Drug Administration
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:89px; top:76px;,ICS 11.040.99
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",ICS 11.040.99
+div,['txt'],position:absolute; left:89px; top:91px;,C 40
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",C 40
+div,['txt'],position:absolute; left:89px; top:159px;,Professional Standard of the People's Republic of China
+span,['f2'],"font-size:15px;vertical-align:baseline;color:rgba(0,0,0,1);",Professional Standard of the People's Republic of China
+div,['txt'],position:absolute; left:384px; top:191px;,YY/T 0944-2014
+span,['f2'],"font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);",YY/T 0944-2014
+div,['txt'],position:absolute; left:89px; top:251px;,Medical endoscopes - Endotherapy
+span,['f2'],"font-size:21px;vertical-align:baseline;color:rgba(0,0,0,1);",Medical endoscopes - Endotherapy
+div,['txt'],position:absolute; left:89px; top:282px;,device - Separating forceps
+span,['f2'],"font-size:21px;vertical-align:baseline;color:rgba(0,0,0,1);",device - Separating forceps
+div,['txt'],position:absolute; left:89px; top:330px;,医用内窥镜 内窥镜器械 分离钳
+span,['f3'],"font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);",医用内窥镜 内窥镜器械 分离钳
+div,['txt'],position:absolute; left:89px; top:372px;,(English translation)
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",(English translation)
+div,['txt'],position:absolute; left:91px; top:706px;,Issue date: 2014-06-17
+span,['f2'],"font-size:14px;vertical-align:baseline;color:rgba(13,13,13,1);",Issue date: 2014-06-17
+div,['txt'],position:absolute; left:287px; top:706px;,Implementation date: 2015-07-01
+span,['f2'],"font-size:14px;vertical-align:baseline;color:rgba(13,13,13,1);",Implementation date: 2015-07-01
+div,['txt'],position:absolute; left:146px; top:730px;,Issued by the China Food and Drug Administration
+span,['f2'],"font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);",Issued by the China Food and Drug Administration
+html,[],,ContentsForeword ............................................................................................................................... I1 Scope .............................................................................................................................12 Normative references.....................................................................................................13 Terms and definitions .....................................................................................................14 Requirements.................................................................................................................25 Test methods..................................................................................................................76 Inspection rules ............................................................................................................12
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+@font-face { font-family: ff2; src: url(""2.ttf""); }
+.f3 { font-family:ff2,monospace; font-weight:normal; font-style:normal; }"
+body,[],,ContentsForeword ............................................................................................................................... I1 Scope .............................................................................................................................12 Normative references.....................................................................................................13 Terms and definitions .....................................................................................................14 Requirements.................................................................................................................25 Test methods..................................................................................................................76 Inspection rules ............................................................................................................12
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:81px;,Contents
+span,['f2'],"font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);",Contents
+div,['txt'],position:absolute; left:90px; top:122px;,Foreword ............................................................................................................................... I
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Foreword ............................................................................................................................... I
+div,['txt'],position:absolute; left:90px; top:138px;,1 Scope .............................................................................................................................1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",1 Scope .............................................................................................................................1
+div,['txt'],position:absolute; left:90px; top:153px;,2 Normative references.....................................................................................................1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",2 Normative references.....................................................................................................1
+div,['txt'],position:absolute; left:90px; top:169px;,3 Terms and definitions .....................................................................................................1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",3 Terms and definitions .....................................................................................................1
+div,['txt'],position:absolute; left:90px; top:185px;,4 Requirements.................................................................................................................2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4 Requirements.................................................................................................................2
+div,['txt'],position:absolute; left:90px; top:200px;,5 Test methods..................................................................................................................7
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5 Test methods..................................................................................................................7
+div,['txt'],position:absolute; left:90px; top:216px;,6 Inspection rules ............................................................................................................12
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",6 Inspection rules ............................................................................................................12
+html,[],,"ForewordCodeofchina.com is in charge of this English translation. In case of any doubt about theEnglish translation, the Chinese original shall be considered authoritative.This standard is developed in accordance with the rules given in GB/T 1.1-2009.Attention is drawn to the possibility that some of the elements of this document may be thesubject of patent rights. The issuing body of this document shall not be held responsiblefor identifying any or all such patent rights.This standard was proposed by the China Food and Drug Administration.This standard is under the jurisdiction of SAC/TC 103/SC 1 Subcommittee on MedicalOptics and Optic Instruments of National Technical Committee on Optics & OpticInstruments of Standardization Administration of China.I"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,"ForewordCodeofchina.com is in charge of this English translation. In case of any doubt about theEnglish translation, the Chinese original shall be considered authoritative.This standard is developed in accordance with the rules given in GB/T 1.1-2009.Attention is drawn to the possibility that some of the elements of this document may be thesubject of patent rights. The issuing body of this document shall not be held responsiblefor identifying any or all such patent rights.This standard was proposed by the China Food and Drug Administration.This standard is under the jurisdiction of SAC/TC 103/SC 1 Subcommittee on MedicalOptics and Optic Instruments of National Technical Committee on Optics & OpticInstruments of Standardization Administration of China.I"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:81px;,Foreword
+span,['f2'],"font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);",Foreword
+div,['txt'],position:absolute; left:90px; top:122px;,Codeofchina.com is in charge of this English translation. In case of any doubt about the
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Codeofchina.com is in charge of this English translation. In case of any doubt about the
+div,['txt'],position:absolute; left:90px; top:138px;,"English translation, the Chinese original shall be considered authoritative."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","English translation, the Chinese original shall be considered authoritative."
+div,['txt'],position:absolute; left:90px; top:169px;,This standard is developed in accordance with the rules given in GB/T 1.1-2009.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",This standard is developed in accordance with the rules given in GB/T 1.1-2009.
+div,['txt'],position:absolute; left:90px; top:200px;,Attention is drawn to the possibility that some of the elements of this document may be the
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Attention is drawn to the possibility that some of the elements of this document may be the
+div,['txt'],position:absolute; left:90px; top:216px;,subject of patent rights. The issuing body of this document shall not be held responsible
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",subject of patent rights. The issuing body of this document shall not be held responsible
+div,['txt'],position:absolute; left:90px; top:231px;,for identifying any or all such patent rights.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",for identifying any or all such patent rights.
+div,['txt'],position:absolute; left:90px; top:263px;,This standard was proposed by the China Food and Drug Administration.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",This standard was proposed by the China Food and Drug Administration.
+div,['txt'],position:absolute; left:90px; top:294px;,This standard is under the jurisdiction of SAC/TC 103/SC 1 Subcommittee on Medical
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",This standard is under the jurisdiction of SAC/TC 103/SC 1 Subcommittee on Medical
+div,['txt'],position:absolute; left:90px; top:309px;,Optics and Optic Instruments of National Technical Committee on Optics & Optic
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Optics and Optic Instruments of National Technical Committee on Optics & Optic
+div,['txt'],position:absolute; left:90px; top:325px;,Instruments of Standardization Administration of China.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Instruments of Standardization Administration of China.
+div,['txt'],position:absolute; left:296px; top:783px;,I
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",I
+html,[],,"Medical endoscopes - Endotherapy device -Separating forceps1 ScopeThis standard specifies the scope, terms and definitions, requirements, and test methodsof separating forceps.This standard is applicable to separating forceps used in endoscopic surgery.2 Normative referencesThe following referenced documents are indispensable for the application of thisdocument. For dated references, only the edition cited applies. For undated references,the latest edition of the referenced document (including any amendments) applies.GB/T 1962 (All parts)GB/T 4340.1-2009GB 9706.4GB 9706.19GB/T 14233.1-2008GB/T 14233.2-2005GB/T 16886 (All parts)YY/T 0149-2006YY 0167-2005Conical fittings with a 6% (Luer) taper for syringes, needles andcertain other medical equipmentMetallic materials - Vickers hardness test - Part 1: Test methodMedical electrical equipment - Part 2-2: Particular requirementsfor the safety of high frequency surgical equipmentMedical electrical equipment - Part 2: Particular requirements forthe safety of endoscopic equipmentTest methods for infusion, transfusion, injection equipment formedical use - Part 1: Chemical analysis methodsTest methods for infusion, transfusion, injection equipment formedical use - Part 2: Biological test methodsBiological evaluation of medical devices - Part 1: Evaluation andtestingMedical instruments of stainless steel - Test methods ofcorrosion resistanceNon-absorbable surgical suture3 Terms and definitionsFor the purposes of this document, the following terms and definitions apply.3.1separating forcepsa type of endotherapy device intended to be used in conjunction with specifiedendoscopes, primarily consisting of a handle, forceps shaft, and forceps jaws, utilized forseparating tissues at surgical parts of the human body1"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.f3 { font-family:sans-serif; font-weight:normal; font-style:italic; }"
+body,[],,"Medical endoscopes - Endotherapy device -Separating forceps1 ScopeThis standard specifies the scope, terms and definitions, requirements, and test methodsof separating forceps.This standard is applicable to separating forceps used in endoscopic surgery.2 Normative referencesThe following referenced documents are indispensable for the application of thisdocument. For dated references, only the edition cited applies. For undated references,the latest edition of the referenced document (including any amendments) applies.GB/T 1962 (All parts)GB/T 4340.1-2009GB 9706.4GB 9706.19GB/T 14233.1-2008GB/T 14233.2-2005GB/T 16886 (All parts)YY/T 0149-2006YY 0167-2005Conical fittings with a 6% (Luer) taper for syringes, needles andcertain other medical equipmentMetallic materials - Vickers hardness test - Part 1: Test methodMedical electrical equipment - Part 2-2: Particular requirementsfor the safety of high frequency surgical equipmentMedical electrical equipment - Part 2: Particular requirements forthe safety of endoscopic equipmentTest methods for infusion, transfusion, injection equipment formedical use - Part 1: Chemical analysis methodsTest methods for infusion, transfusion, injection equipment formedical use - Part 2: Biological test methodsBiological evaluation of medical devices - Part 1: Evaluation andtestingMedical instruments of stainless steel - Test methods ofcorrosion resistanceNon-absorbable surgical suture3 Terms and definitionsFor the purposes of this document, the following terms and definitions apply.3.1separating forcepsa type of endotherapy device intended to be used in conjunction with specifiedendoscopes, primarily consisting of a handle, forceps shaft, and forceps jaws, utilized forseparating tissues at surgical parts of the human body1"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:81px;,Medical endoscopes - Endotherapy device -
+span,['f2'],"font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);",Medical endoscopes - Endotherapy device -
+div,['txt'],position:absolute; left:90px; top:112px;,Separating forceps
+span,['f2'],"font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);",Separating forceps
+div,['txt'],position:absolute; left:90px; top:153px;,1 Scope
+span,['f2'],"font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);",1 Scope
+div,['txt'],position:absolute; left:90px; top:185px;,"This standard specifies the scope, terms and definitions, requirements, and test methods"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","This standard specifies the scope, terms and definitions, requirements, and test methods"
+div,['txt'],position:absolute; left:90px; top:200px;,of separating forceps.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",of separating forceps.
+div,['txt'],position:absolute; left:90px; top:231px;,This standard is applicable to separating forceps used in endoscopic surgery.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",This standard is applicable to separating forceps used in endoscopic surgery.
+div,['txt'],position:absolute; left:90px; top:262px;,2 Normative references
+span,['f2'],"font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);",2 Normative references
+div,['txt'],position:absolute; left:90px; top:294px;,The following referenced documents are indispensable for the application of this
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The following referenced documents are indispensable for the application of this
+div,['txt'],position:absolute; left:90px; top:309px;,"document. For dated references, only the edition cited applies. For undated references,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","document. For dated references, only the edition cited applies. For undated references,"
+div,['txt'],position:absolute; left:90px; top:325px;,the latest edition of the referenced document (including any amendments) applies.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the latest edition of the referenced document (including any amendments) applies.
+div,['txt'],position:absolute; left:90px; top:356px;,GB/T 1962 (All parts)
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB/T 1962 (All parts)
+div,['txt'],position:absolute; left:90px; top:387px;,GB/T 4340.1-2009
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB/T 4340.1-2009
+div,['txt'],position:absolute; left:90px; top:403px;,GB 9706.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB 9706.4
+div,['txt'],position:absolute; left:90px; top:434px;,GB 9706.19
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB 9706.19
+div,['txt'],position:absolute; left:90px; top:466px;,GB/T 14233.1-2008
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB/T 14233.1-2008
+div,['txt'],position:absolute; left:90px; top:497px;,GB/T 14233.2-2005
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB/T 14233.2-2005
+div,['txt'],position:absolute; left:90px; top:528px;,GB/T 16886 (All parts)
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB/T 16886 (All parts)
+div,['txt'],position:absolute; left:90px; top:559px;,YY/T 0149-2006
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",YY/T 0149-2006
+div,['txt'],position:absolute; left:90px; top:590px;,YY 0167-2005
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",YY 0167-2005
+div,['txt'],position:absolute; left:203px; top:356px;,"Conical fittings with a 6% (Luer) taper for syringes, needles and"
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Conical fittings with a 6% (Luer) taper for syringes, needles and"
+div,['txt'],position:absolute; left:203px; top:372px;,certain other medical equipment
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",certain other medical equipment
+div,['txt'],position:absolute; left:203px; top:387px;,Metallic materials - Vickers hardness test - Part 1: Test method
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Metallic materials - Vickers hardness test - Part 1: Test method
+div,['txt'],position:absolute; left:203px; top:403px;,Medical electrical equipment - Part 2-2: Particular requirements
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Medical electrical equipment - Part 2-2: Particular requirements
+div,['txt'],position:absolute; left:203px; top:419px;,for the safety of high frequency surgical equipment
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",for the safety of high frequency surgical equipment
+div,['txt'],position:absolute; left:203px; top:434px;,Medical electrical equipment - Part 2: Particular requirements for
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Medical electrical equipment - Part 2: Particular requirements for
+div,['txt'],position:absolute; left:203px; top:450px;,the safety of endoscopic equipment
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the safety of endoscopic equipment
+div,['txt'],position:absolute; left:203px; top:466px;,"Test methods for infusion, transfusion, injection equipment for"
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Test methods for infusion, transfusion, injection equipment for"
+div,['txt'],position:absolute; left:203px; top:481px;,medical use - Part 1: Chemical analysis methods
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",medical use - Part 1: Chemical analysis methods
+div,['txt'],position:absolute; left:203px; top:497px;,"Test methods for infusion, transfusion, injection equipment for"
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Test methods for infusion, transfusion, injection equipment for"
+div,['txt'],position:absolute; left:203px; top:512px;,medical use - Part 2: Biological test methods
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",medical use - Part 2: Biological test methods
+div,['txt'],position:absolute; left:203px; top:528px;,Biological evaluation of medical devices - Part 1: Evaluation and
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Biological evaluation of medical devices - Part 1: Evaluation and
+div,['txt'],position:absolute; left:203px; top:544px;,testing
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",testing
+div,['txt'],position:absolute; left:203px; top:559px;,Medical instruments of stainless steel - Test methods of
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Medical instruments of stainless steel - Test methods of
+div,['txt'],position:absolute; left:203px; top:575px;,corrosion resistance
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",corrosion resistance
+div,['txt'],position:absolute; left:203px; top:590px;,Non-absorbable surgical suture
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Non-absorbable surgical suture
+div,['txt'],position:absolute; left:90px; top:621px;,3 Terms and definitions
+span,['f2'],"font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);",3 Terms and definitions
+div,['txt'],position:absolute; left:90px; top:653px;,"For the purposes of this document, the following terms and definitions apply."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","For the purposes of this document, the following terms and definitions apply."
+div,['txt'],position:absolute; left:90px; top:684px;,3.1
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",3.1
+div,['txt'],position:absolute; left:90px; top:700px;,separating forceps
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",separating forceps
+div,['txt'],position:absolute; left:90px; top:715px;,a type of endotherapy device intended to be used in conjunction with specified
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",a type of endotherapy device intended to be used in conjunction with specified
+div,['txt'],position:absolute; left:90px; top:731px;,"endoscopes, primarily consisting of a handle, forceps shaft, and forceps jaws, utilized for"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","endoscopes, primarily consisting of a handle, forceps shaft, and forceps jaws, utilized for"
+div,['txt'],position:absolute; left:90px; top:746px;,separating tissues at surgical parts of the human body
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",separating tissues at surgical parts of the human body
+div,['txt'],position:absolute; left:295px; top:783px;,1
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",1
+html,[],,"3.2insertion portioncomponent of the separating forceps that can be inserted into a natural body orifice, asurgical incision, a device channel of endoscope, a device channel of endoscopeaccessory, or a device channel of endotherapy device3.3maximum insertion portion widthmaximum external width of the insertion portion3.4working lengththe maximum length of the insertion portion of the separating forceps3.5endotherapy devicemedical device used in endoscopic surgery for inspection, diagnosis, or treatment,entering natural body orifices or surgical incisions through channels identical or differentfrom those of the endoscopeNote: Endotherapy devices include devices guiding the insertion of endotherapy devices. Devices usedwhen observing with an endoscope, entering the human body from orifices different from those of theendoscope for safety purposes, also fall under the category of endotherapy devices.4 Requirements4.1Materials used in the patient-contacting parts4.1.1Requirements for chemical compositionThe materials used in the patient-contacting parts shall be explicitly specified by themanufacturer in any possible form. For metallic materials, the grade and/or code, as wellas the chemical composition of the materials, shall be indicated, and the chemicalcomposition of metallic materials shall be verified through test.4.1.2BiocompatibilityMaterials in contact with patients shall be evaluated for biosafety following the principlesand requirements specified in GB/T 16886.1 to demonstrate their good biocompatibility.For biological evaluation, the results of biological tests may be taken into account, and thetest items shall be selected according to the guidelines given in GB/T 16886.1. All testsshall give priority to the relevant standards of GB/T 16886 as reference standards.2"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,"3.2insertion portioncomponent of the separating forceps that can be inserted into a natural body orifice, asurgical incision, a device channel of endoscope, a device channel of endoscopeaccessory, or a device channel of endotherapy device3.3maximum insertion portion widthmaximum external width of the insertion portion3.4working lengththe maximum length of the insertion portion of the separating forceps3.5endotherapy devicemedical device used in endoscopic surgery for inspection, diagnosis, or treatment,entering natural body orifices or surgical incisions through channels identical or differentfrom those of the endoscopeNote: Endotherapy devices include devices guiding the insertion of endotherapy devices. Devices usedwhen observing with an endoscope, entering the human body from orifices different from those of theendoscope for safety purposes, also fall under the category of endotherapy devices.4 Requirements4.1Materials used in the patient-contacting parts4.1.1Requirements for chemical compositionThe materials used in the patient-contacting parts shall be explicitly specified by themanufacturer in any possible form. For metallic materials, the grade and/or code, as wellas the chemical composition of the materials, shall be indicated, and the chemicalcomposition of metallic materials shall be verified through test.4.1.2BiocompatibilityMaterials in contact with patients shall be evaluated for biosafety following the principlesand requirements specified in GB/T 16886.1 to demonstrate their good biocompatibility.For biological evaluation, the results of biological tests may be taken into account, and thetest items shall be selected according to the guidelines given in GB/T 16886.1. All testsshall give priority to the relevant standards of GB/T 16886 as reference standards.2"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:91px;,3.2
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",3.2
+div,['txt'],position:absolute; left:90px; top:107px;,insertion portion
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",insertion portion
+div,['txt'],position:absolute; left:90px; top:122px;,"component of the separating forceps that can be inserted into a natural body orifice, a"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","component of the separating forceps that can be inserted into a natural body orifice, a"
+div,['txt'],position:absolute; left:90px; top:138px;,"surgical incision, a device channel of endoscope, a device channel of endoscope"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","surgical incision, a device channel of endoscope, a device channel of endoscope"
+div,['txt'],position:absolute; left:90px; top:153px;,"accessory, or a device channel of endotherapy device"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","accessory, or a device channel of endotherapy device"
+div,['txt'],position:absolute; left:90px; top:185px;,3.3
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",3.3
+div,['txt'],position:absolute; left:90px; top:200px;,maximum insertion portion width
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",maximum insertion portion width
+div,['txt'],position:absolute; left:90px; top:216px;,maximum external width of the insertion portion
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",maximum external width of the insertion portion
+div,['txt'],position:absolute; left:90px; top:247px;,3.4
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",3.4
+div,['txt'],position:absolute; left:90px; top:263px;,working length
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",working length
+div,['txt'],position:absolute; left:90px; top:278px;,the maximum length of the insertion portion of the separating forceps
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the maximum length of the insertion portion of the separating forceps
+div,['txt'],position:absolute; left:90px; top:310px;,3.5
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",3.5
+div,['txt'],position:absolute; left:90px; top:325px;,endotherapy device
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",endotherapy device
+div,['txt'],position:absolute; left:90px; top:341px;,"medical device used in endoscopic surgery for inspection, diagnosis, or treatment,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","medical device used in endoscopic surgery for inspection, diagnosis, or treatment,"
+div,['txt'],position:absolute; left:90px; top:356px;,entering natural body orifices or surgical incisions through channels identical or different
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",entering natural body orifices or surgical incisions through channels identical or different
+div,['txt'],position:absolute; left:90px; top:372px;,from those of the endoscope
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",from those of the endoscope
+div,['txt'],position:absolute; left:90px; top:404px;,Note: Endotherapy devices include devices guiding the insertion of endotherapy devices. Devices used
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",Note: Endotherapy devices include devices guiding the insertion of endotherapy devices. Devices used
+div,['txt'],position:absolute; left:90px; top:419px;,"when observing with an endoscope, entering the human body from orifices different from those of the"
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);","when observing with an endoscope, entering the human body from orifices different from those of the"
+div,['txt'],position:absolute; left:90px; top:435px;,"endoscope for safety purposes, also fall under the category of endotherapy devices."
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);","endoscope for safety purposes, also fall under the category of endotherapy devices."
+div,['txt'],position:absolute; left:90px; top:465px;,4 Requirements
+span,['f2'],"font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);",4 Requirements
+div,['txt'],position:absolute; left:90px; top:497px;,4.1Materials used in the patient-contacting parts
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Materials used in the patient-contacting parts
+div,['txt'],position:absolute; left:90px; top:528px;,4.1.1Requirements for chemical composition
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Requirements for chemical composition
+div,['txt'],position:absolute; left:90px; top:559px;,The materials used in the patient-contacting parts shall be explicitly specified by the
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The materials used in the patient-contacting parts shall be explicitly specified by the
+div,['txt'],position:absolute; left:90px; top:575px;,"manufacturer in any possible form. For metallic materials, the grade and/or code, as well"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","manufacturer in any possible form. For metallic materials, the grade and/or code, as well"
+div,['txt'],position:absolute; left:90px; top:590px;,"as the chemical composition of the materials, shall be indicated, and the chemical"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","as the chemical composition of the materials, shall be indicated, and the chemical"
+div,['txt'],position:absolute; left:90px; top:606px;,composition of metallic materials shall be verified through test.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",composition of metallic materials shall be verified through test.
+div,['txt'],position:absolute; left:90px; top:637px;,4.1.2Biocompatibility
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Biocompatibility
+div,['txt'],position:absolute; left:90px; top:668px;,Materials in contact with patients shall be evaluated for biosafety following the principles
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Materials in contact with patients shall be evaluated for biosafety following the principles
+div,['txt'],position:absolute; left:90px; top:684px;,and requirements specified in GB/T 16886.1 to demonstrate their good biocompatibility.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",and requirements specified in GB/T 16886.1 to demonstrate their good biocompatibility.
+div,['txt'],position:absolute; left:90px; top:715px;,"For biological evaluation, the results of biological tests may be taken into account, and the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","For biological evaluation, the results of biological tests may be taken into account, and the"
+div,['txt'],position:absolute; left:90px; top:731px;,test items shall be selected according to the guidelines given in GB/T 16886.1. All tests
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",test items shall be selected according to the guidelines given in GB/T 16886.1. All tests
+div,['txt'],position:absolute; left:90px; top:746px;,shall give priority to the relevant standards of GB/T 16886 as reference standards.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",shall give priority to the relevant standards of GB/T 16886 as reference standards.
+div,['txt'],position:absolute; left:295px; top:783px;,2
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",2
+html,[],,"For materials previously proven to be applicable, if it can be demonstrated thatsubsequent manufacturing processes do not pose a biosafety hazard, repeated biologicaltests may be omitted.Note 1: Materials in devices with a demonstrable history of use in specific applications or for whichinformation regarding materials and/or devices is available from other sources may be consideredpreviously proven.Note 2: If medical metallic materials in align with the application scope outlined in national or professionalstandards are used, repeated biological tests may be omitted.4.1.3Dissolved precipitate from polymer materials in contact with patients4.1.3.1Appearance (turbidity, color): Colorless and transparent, and no visible foreignmatter to the human eye.4.1.3.2pH: Compared with the blank control solution of the same batch, the pHdifference between them shall be less than 2.0.4.1.3.3Total content of soluble heavy metals: The total content of soluble heavy metalsin the leachate shall not exceed 5.0μg/mL.4.1.3.4Potassium permanganate-reducing substances: The difference in consumptionshall be less than 2.0mL when compared to the blank control solution of equal volumefrom the same batch.4.1.3.5Evaporation residue: The total residue after drying of the leachate shall be lessthan 2.0mg.4.1.4HardnessThe hardness of the forceps jaws shall meet the requirements of the manufacturer.4.1.5Consistency between surface and internal materialsFor components claimed by the manufacturer to be made of metallic materials, thesurface material shall be consistent with the internal material. If surface coating is deemednecessary, the manufacturer shall provide corresponding coating requirements and testmethods.4.2Appearance4.2.1In the visual field of the endoscope, the visible distal end of the surgical instrumentshall be treated to eliminate potential orienting reflex.3"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+@font-face { font-family: ff3; src: url(""3.ttf""); }
+.f3 { font-family:ff3,sans-serif; font-weight:normal; font-style:italic; }"
+body,[],,"For materials previously proven to be applicable, if it can be demonstrated thatsubsequent manufacturing processes do not pose a biosafety hazard, repeated biologicaltests may be omitted.Note 1: Materials in devices with a demonstrable history of use in specific applications or for whichinformation regarding materials and/or devices is available from other sources may be consideredpreviously proven.Note 2: If medical metallic materials in align with the application scope outlined in national or professionalstandards are used, repeated biological tests may be omitted.4.1.3Dissolved precipitate from polymer materials in contact with patients4.1.3.1Appearance (turbidity, color): Colorless and transparent, and no visible foreignmatter to the human eye.4.1.3.2pH: Compared with the blank control solution of the same batch, the pHdifference between them shall be less than 2.0.4.1.3.3Total content of soluble heavy metals: The total content of soluble heavy metalsin the leachate shall not exceed 5.0μg/mL.4.1.3.4Potassium permanganate-reducing substances: The difference in consumptionshall be less than 2.0mL when compared to the blank control solution of equal volumefrom the same batch.4.1.3.5Evaporation residue: The total residue after drying of the leachate shall be lessthan 2.0mg.4.1.4HardnessThe hardness of the forceps jaws shall meet the requirements of the manufacturer.4.1.5Consistency between surface and internal materialsFor components claimed by the manufacturer to be made of metallic materials, thesurface material shall be consistent with the internal material. If surface coating is deemednecessary, the manufacturer shall provide corresponding coating requirements and testmethods.4.2Appearance4.2.1In the visual field of the endoscope, the visible distal end of the surgical instrumentshall be treated to eliminate potential orienting reflex.3"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:90px;,"For materials previously proven to be applicable, if it can be demonstrated that"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","For materials previously proven to be applicable, if it can be demonstrated that"
+div,['txt'],position:absolute; left:90px; top:106px;,"subsequent manufacturing processes do not pose a biosafety hazard, repeated biological"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","subsequent manufacturing processes do not pose a biosafety hazard, repeated biological"
+div,['txt'],position:absolute; left:90px; top:122px;,tests may be omitted.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",tests may be omitted.
+div,['txt'],position:absolute; left:90px; top:153px;,Note 1: Materials in devices with a demonstrable history of use in specific applications or for which
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",Note 1: Materials in devices with a demonstrable history of use in specific applications or for which
+div,['txt'],position:absolute; left:90px; top:168px;,information regarding materials and/or devices is available from other sources may be considered
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",information regarding materials and/or devices is available from other sources may be considered
+div,['txt'],position:absolute; left:90px; top:184px;,previously proven.
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",previously proven.
+div,['txt'],position:absolute; left:90px; top:215px;,Note 2: If medical metallic materials in align with the application scope outlined in national or professional
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",Note 2: If medical metallic materials in align with the application scope outlined in national or professional
+div,['txt'],position:absolute; left:90px; top:230px;,"standards are used, repeated biological tests may be omitted."
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);","standards are used, repeated biological tests may be omitted."
+div,['txt'],position:absolute; left:90px; top:260px;,4.1.3Dissolved precipitate from polymer materials in contact with patients
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Dissolved precipitate from polymer materials in contact with patients
+div,['txt'],position:absolute; left:90px; top:291px;,"4.1.3.1Appearance (turbidity, color): Colorless and transparent, and no visible foreign"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.3.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Appearance (turbidity, color): Colorless and transparent, and no visible foreign"
+div,['txt'],position:absolute; left:90px; top:306px;,matter to the human eye.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",matter to the human eye.
+div,['txt'],position:absolute; left:90px; top:337px;,"4.1.3.2pH: Compared with the blank control solution of the same batch, the pH"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.3.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","pH: Compared with the blank control solution of the same batch, the pH"
+div,['txt'],position:absolute; left:90px; top:353px;,difference between them shall be less than 2.0.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",difference between them shall be less than 2.0.
+div,['txt'],position:absolute; left:90px; top:383px;,4.1.3.3Total content of soluble heavy metals: The total content of soluble heavy metals
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.3.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Total content of soluble heavy metals: The total content of soluble heavy metals
+div,['txt'],position:absolute; left:90px; top:399px;,in the leachate shall not exceed 5.0μg/mL.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",in the leachate shall not exceed 5.0
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",μ
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",g/mL.
+div,['txt'],position:absolute; left:90px; top:430px;,4.1.3.4Potassium permanganate-reducing substances: The difference in consumption
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.3.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Potassium permanganate-reducing substances: The difference in consumption
+div,['txt'],position:absolute; left:90px; top:445px;,shall be less than 2.0mL when compared to the blank control solution of equal volume
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",shall be less than 2.0mL when compared to the blank control solution of equal volume
+div,['txt'],position:absolute; left:90px; top:461px;,from the same batch.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",from the same batch.
+div,['txt'],position:absolute; left:90px; top:491px;,4.1.3.5Evaporation residue: The total residue after drying of the leachate shall be less
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.3.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Evaporation residue: The total residue after drying of the leachate shall be less
+div,['txt'],position:absolute; left:90px; top:507px;,than 2.0mg.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",than 2.0mg.
+div,['txt'],position:absolute; left:90px; top:538px;,4.1.4Hardness
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Hardness
+div,['txt'],position:absolute; left:90px; top:568px;,The hardness of the forceps jaws shall meet the requirements of the manufacturer.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The hardness of the forceps jaws shall meet the requirements of the manufacturer.
+div,['txt'],position:absolute; left:90px; top:599px;,4.1.5Consistency between surface and internal materials
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.1.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Consistency between surface and internal materials
+div,['txt'],position:absolute; left:90px; top:629px;,"For components claimed by the manufacturer to be made of metallic materials, the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","For components claimed by the manufacturer to be made of metallic materials, the"
+div,['txt'],position:absolute; left:90px; top:645px;,surface material shall be consistent with the internal material. If surface coating is deemed
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",surface material shall be consistent with the internal material. If surface coating is deemed
+div,['txt'],position:absolute; left:90px; top:661px;,"necessary, the manufacturer shall provide corresponding coating requirements and test"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","necessary, the manufacturer shall provide corresponding coating requirements and test"
+div,['txt'],position:absolute; left:90px; top:676px;,methods.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",methods.
+div,['txt'],position:absolute; left:90px; top:707px;,4.2Appearance
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Appearance
+div,['txt'],position:absolute; left:90px; top:737px;,"4.2.1In the visual field of the endoscope, the visible distal end of the surgical instrument"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.2.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","In the visual field of the endoscope, the visible distal end of the surgical instrument"
+div,['txt'],position:absolute; left:90px; top:753px;,shall be treated to eliminate potential orienting reflex.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",shall be treated to eliminate potential orienting reflex.
+div,['txt'],position:absolute; left:295px; top:783px;,3
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",3
+html,[],,"4.2.2Except for specific purposes, the outer surface shall be free from defects such asburrs that could cause injury.4.3Dimensions4.3.1Maximum insertion portion widthThe manufacturer shall provide the nominal value of the maximum insertion portion widthin the manual.The measured value shall not exceed the nominal value.4.3.2Working lengthThe manufacturer shall provide the nominal value of the working length in the manual,accompanied by illustrative diagrams.The tolerance for nominal value of working length shall be ±3%.4.3.3Maximum opening range of forceps jawsThe manufacturer shall provide the nominal value of the maximum opening range offorceps jaws in the manual, accompanied by illustrative diagrams.The tolerance for nominal value of opening range of forceps jaws shall be ±20%.4.4Service performance4.4.1Opening and closing performanceThe forceps jaws shall operate smoothly during both opening and closing, and the forcepsshaft shall remain stable without any undesirable wobbling that might interfere with theuser's operation.4.4.2Locking engagement force (applicable to separating forceps with a locking device)The manufacturer shall give the engagement force of the forceps jaws in the locked state,and the actual engagement force shall not exceed 20% of the value claimed by themanufacturer.4.4.3Transmission coefficient of opening forceThe force transmission coefficient between the force applied to the handle and theopening force of the forceps jaws shall meet the requirements of the manufacturer.4"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,"4.2.2Except for specific purposes, the outer surface shall be free from defects such asburrs that could cause injury.4.3Dimensions4.3.1Maximum insertion portion widthThe manufacturer shall provide the nominal value of the maximum insertion portion widthin the manual.The measured value shall not exceed the nominal value.4.3.2Working lengthThe manufacturer shall provide the nominal value of the working length in the manual,accompanied by illustrative diagrams.The tolerance for nominal value of working length shall be ±3%.4.3.3Maximum opening range of forceps jawsThe manufacturer shall provide the nominal value of the maximum opening range offorceps jaws in the manual, accompanied by illustrative diagrams.The tolerance for nominal value of opening range of forceps jaws shall be ±20%.4.4Service performance4.4.1Opening and closing performanceThe forceps jaws shall operate smoothly during both opening and closing, and the forcepsshaft shall remain stable without any undesirable wobbling that might interfere with theuser's operation.4.4.2Locking engagement force (applicable to separating forceps with a locking device)The manufacturer shall give the engagement force of the forceps jaws in the locked state,and the actual engagement force shall not exceed 20% of the value claimed by themanufacturer.4.4.3Transmission coefficient of opening forceThe force transmission coefficient between the force applied to the handle and theopening force of the forceps jaws shall meet the requirements of the manufacturer.4"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:91px;,"4.2.2Except for specific purposes, the outer surface shall be free from defects such as"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.2.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Except for specific purposes, the outer surface shall be free from defects such as"
+div,['txt'],position:absolute; left:90px; top:106px;,burrs that could cause injury.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",burrs that could cause injury.
+div,['txt'],position:absolute; left:90px; top:137px;,4.3Dimensions
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Dimensions
+div,['txt'],position:absolute; left:90px; top:167px;,4.3.1Maximum insertion portion width
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.3.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Maximum insertion portion width
+div,['txt'],position:absolute; left:90px; top:198px;,The manufacturer shall provide the nominal value of the maximum insertion portion width
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The manufacturer shall provide the nominal value of the maximum insertion portion width
+div,['txt'],position:absolute; left:90px; top:213px;,in the manual.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",in the manual.
+div,['txt'],position:absolute; left:90px; top:244px;,The measured value shall not exceed the nominal value.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The measured value shall not exceed the nominal value.
+div,['txt'],position:absolute; left:90px; top:275px;,4.3.2Working length
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.3.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Working length
+div,['txt'],position:absolute; left:90px; top:305px;,"The manufacturer shall provide the nominal value of the working length in the manual,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","The manufacturer shall provide the nominal value of the working length in the manual,"
+div,['txt'],position:absolute; left:90px; top:321px;,accompanied by illustrative diagrams.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",accompanied by illustrative diagrams.
+div,['txt'],position:absolute; left:90px; top:351px;,The tolerance for nominal value of working length shall be ±3%.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The tolerance for nominal value of working length shall be ±3%.
+div,['txt'],position:absolute; left:90px; top:382px;,4.3.3Maximum opening range of forceps jaws
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.3.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Maximum opening range of forceps jaws
+div,['txt'],position:absolute; left:90px; top:413px;,The manufacturer shall provide the nominal value of the maximum opening range of
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The manufacturer shall provide the nominal value of the maximum opening range of
+div,['txt'],position:absolute; left:90px; top:428px;,"forceps jaws in the manual, accompanied by illustrative diagrams."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","forceps jaws in the manual, accompanied by illustrative diagrams."
+div,['txt'],position:absolute; left:90px; top:459px;,The tolerance for nominal value of opening range of forceps jaws shall be ±20%.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The tolerance for nominal value of opening range of forceps jaws shall be ±20%.
+div,['txt'],position:absolute; left:90px; top:490px;,4.4Service performance
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Service performance
+div,['txt'],position:absolute; left:90px; top:520px;,4.4.1Opening and closing performance
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.4.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Opening and closing performance
+div,['txt'],position:absolute; left:90px; top:551px;,"The forceps jaws shall operate smoothly during both opening and closing, and the forceps"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","The forceps jaws shall operate smoothly during both opening and closing, and the forceps"
+div,['txt'],position:absolute; left:90px; top:566px;,shaft shall remain stable without any undesirable wobbling that might interfere with the
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",shaft shall remain stable without any undesirable wobbling that might interfere with the
+div,['txt'],position:absolute; left:90px; top:582px;,user's operation.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",user's operation.
+div,['txt'],position:absolute; left:90px; top:613px;,4.4.2Locking engagement force (applicable to separating forceps with a locking device)
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.4.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Locking engagement force (applicable to separating forceps with a locking device)
+div,['txt'],position:absolute; left:90px; top:643px;,"The manufacturer shall give the engagement force of the forceps jaws in the locked state,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","The manufacturer shall give the engagement force of the forceps jaws in the locked state,"
+div,['txt'],position:absolute; left:90px; top:659px;,and the actual engagement force shall not exceed 20% of the value claimed by the
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",and the actual engagement force shall not exceed 20% of the value claimed by the
+div,['txt'],position:absolute; left:90px; top:674px;,manufacturer.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",manufacturer.
+div,['txt'],position:absolute; left:90px; top:705px;,4.4.3Transmission coefficient of opening force
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.4.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Transmission coefficient of opening force
+div,['txt'],position:absolute; left:90px; top:736px;,The force transmission coefficient between the force applied to the handle and the
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The force transmission coefficient between the force applied to the handle and the
+div,['txt'],position:absolute; left:90px; top:751px;,opening force of the forceps jaws shall meet the requirements of the manufacturer.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",opening force of the forceps jaws shall meet the requirements of the manufacturer.
+div,['txt'],position:absolute; left:295px; top:783px;,4
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",4
+html,[],,"4.4.4Transmission coefficient of closing forceThe force transmission coefficient between the force applied to the handle and the closingforce of the forceps jaws shall meet the requirements of the manufacturer.4.4.5Elasticity and robustnessAfter being tested using the method specified in 5.4.3, the separating forceps shall be freefrom distortion, cracking, or any other permanent deformation.4.4.6Rotation performance (applicable to separating forceps with rotation function)The separating forceps shall rotate smoothly, and during rotation, the forceps shaft shallremain stable without any undesirable wobbling that might interfere with the user'soperation.4.4.7Teeth profile of forceps jawsIn terms of arrangement, the teeth on the forceps jaws of the separating forceps shallmeet the design requirements, and the teeth shall be regular in profile, accurately aligned,and properly engaged.4.5Durability (applicable to non-disposable products)4.5.1High-temperature and high-pressure resistanceSeparating forceps labeled as capable of withstanding high temperature and highpressure shall still meet the requirements of 4.4 after 20 cycles of high-temperature andhigh-pressure test.4.5.2Corrosion resistanceParts made of martensitic or austenitic stainless steel shall be tested using the boilingwater test method specified in YY/T 0149-2006, and after the test, these portions shall beup to criteria Class b. For other materials, a single round of disinfection and sterilizationshall be conducted following the instructions specified by the manufacturer in the manual,using the most unfavorable method. After this process, the materials shall be free fromcorrosion.4.5.3Capability to withstand repeated operationsThe separating forceps shall be able to withstand 20 cycles of repeated operations withoutdamage or breakage.5"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,"4.4.4Transmission coefficient of closing forceThe force transmission coefficient between the force applied to the handle and the closingforce of the forceps jaws shall meet the requirements of the manufacturer.4.4.5Elasticity and robustnessAfter being tested using the method specified in 5.4.3, the separating forceps shall be freefrom distortion, cracking, or any other permanent deformation.4.4.6Rotation performance (applicable to separating forceps with rotation function)The separating forceps shall rotate smoothly, and during rotation, the forceps shaft shallremain stable without any undesirable wobbling that might interfere with the user'soperation.4.4.7Teeth profile of forceps jawsIn terms of arrangement, the teeth on the forceps jaws of the separating forceps shallmeet the design requirements, and the teeth shall be regular in profile, accurately aligned,and properly engaged.4.5Durability (applicable to non-disposable products)4.5.1High-temperature and high-pressure resistanceSeparating forceps labeled as capable of withstanding high temperature and highpressure shall still meet the requirements of 4.4 after 20 cycles of high-temperature andhigh-pressure test.4.5.2Corrosion resistanceParts made of martensitic or austenitic stainless steel shall be tested using the boilingwater test method specified in YY/T 0149-2006, and after the test, these portions shall beup to criteria Class b. For other materials, a single round of disinfection and sterilizationshall be conducted following the instructions specified by the manufacturer in the manual,using the most unfavorable method. After this process, the materials shall be free fromcorrosion.4.5.3Capability to withstand repeated operationsThe separating forceps shall be able to withstand 20 cycles of repeated operations withoutdamage or breakage.5"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:91px;,4.4.4Transmission coefficient of closing force
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.4.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Transmission coefficient of closing force
+div,['txt'],position:absolute; left:90px; top:122px;,The force transmission coefficient between the force applied to the handle and the closing
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The force transmission coefficient between the force applied to the handle and the closing
+div,['txt'],position:absolute; left:90px; top:138px;,force of the forceps jaws shall meet the requirements of the manufacturer.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",force of the forceps jaws shall meet the requirements of the manufacturer.
+div,['txt'],position:absolute; left:90px; top:169px;,4.4.5Elasticity and robustness
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.4.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Elasticity and robustness
+div,['txt'],position:absolute; left:90px; top:200px;,"After being tested using the method specified in 5.4.3, the separating forceps shall be free"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","After being tested using the method specified in 5.4.3, the separating forceps shall be free"
+div,['txt'],position:absolute; left:90px; top:216px;,"from distortion, cracking, or any other permanent deformation."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","from distortion, cracking, or any other permanent deformation."
+div,['txt'],position:absolute; left:90px; top:247px;,4.4.6Rotation performance (applicable to separating forceps with rotation function)
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.4.6
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Rotation performance (applicable to separating forceps with rotation function)
+div,['txt'],position:absolute; left:90px; top:278px;,"The separating forceps shall rotate smoothly, and during rotation, the forceps shaft shall"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","The separating forceps shall rotate smoothly, and during rotation, the forceps shaft shall"
+div,['txt'],position:absolute; left:90px; top:294px;,remain stable without any undesirable wobbling that might interfere with the user's
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",remain stable without any undesirable wobbling that might interfere with the user's
+div,['txt'],position:absolute; left:90px; top:309px;,operation.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",operation.
+div,['txt'],position:absolute; left:90px; top:341px;,4.4.7Teeth profile of forceps jaws
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.4.7
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Teeth profile of forceps jaws
+div,['txt'],position:absolute; left:90px; top:372px;,"In terms of arrangement, the teeth on the forceps jaws of the separating forceps shall"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","In terms of arrangement, the teeth on the forceps jaws of the separating forceps shall"
+div,['txt'],position:absolute; left:90px; top:387px;,"meet the design requirements, and the teeth shall be regular in profile, accurately aligned,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","meet the design requirements, and the teeth shall be regular in profile, accurately aligned,"
+div,['txt'],position:absolute; left:90px; top:403px;,and properly engaged.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",and properly engaged.
+div,['txt'],position:absolute; left:90px; top:434px;,4.5Durability (applicable to non-disposable products)
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Durability (applicable to non-disposable products)
+div,['txt'],position:absolute; left:90px; top:466px;,4.5.1High-temperature and high-pressure resistance
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.5.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",High-temperature and high-pressure resistance
+div,['txt'],position:absolute; left:90px; top:497px;,Separating forceps labeled as capable of withstanding high temperature and high
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Separating forceps labeled as capable of withstanding high temperature and high
+div,['txt'],position:absolute; left:90px; top:512px;,pressure shall still meet the requirements of 4.4 after 20 cycles of high-temperature and
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",pressure shall still meet the requirements of 4.4 after 20 cycles of high-temperature and
+div,['txt'],position:absolute; left:90px; top:528px;,high-pressure test.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",high-pressure test.
+div,['txt'],position:absolute; left:90px; top:559px;,4.5.2Corrosion resistance
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.5.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Corrosion resistance
+div,['txt'],position:absolute; left:90px; top:590px;,Parts made of martensitic or austenitic stainless steel shall be tested using the boiling
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Parts made of martensitic or austenitic stainless steel shall be tested using the boiling
+div,['txt'],position:absolute; left:90px; top:606px;,"water test method specified in YY/T 0149-2006, and after the test, these portions shall be"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","water test method specified in YY/T 0149-2006, and after the test, these portions shall be"
+div,['txt'],position:absolute; left:90px; top:622px;,"up to criteria Class b. For other materials, a single round of disinfection and sterilization"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","up to criteria Class b. For other materials, a single round of disinfection and sterilization"
+div,['txt'],position:absolute; left:90px; top:637px;,"shall be conducted following the instructions specified by the manufacturer in the manual,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","shall be conducted following the instructions specified by the manufacturer in the manual,"
+div,['txt'],position:absolute; left:90px; top:653px;,"using the most unfavorable method. After this process, the materials shall be free from"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","using the most unfavorable method. After this process, the materials shall be free from"
+div,['txt'],position:absolute; left:90px; top:668px;,corrosion.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",corrosion.
+div,['txt'],position:absolute; left:90px; top:700px;,4.5.3Capability to withstand repeated operations
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.5.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Capability to withstand repeated operations
+div,['txt'],position:absolute; left:90px; top:731px;,The separating forceps shall be able to withstand 20 cycles of repeated operations without
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The separating forceps shall be able to withstand 20 cycles of repeated operations without
+div,['txt'],position:absolute; left:90px; top:746px;,damage or breakage.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",damage or breakage.
+div,['txt'],position:absolute; left:295px; top:783px;,5
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",5
+html,[],,"4.6Sterilization requirements (applicable to disposable products)4.6.1The separating forceps shall be sterile.4.6.2Ethylene oxide residue (applicable to products sterilized with ethylene oxide): Theresidue concentration of ethylene oxide shall be below 10μg/g.4.7Luer taper (applicable to separating forceps with an injection port)The Luer fitting shall meet the relevant requirement of GB/T 1962.4.8Product manual4.8.1The product manual shall include a clear explanation of the endoscope and itsaccessories that can be used in conjunction with the separating forceps. This informationis intended to guide users in selecting the appropriate endoscope and accessories basedon the provided instructions.4.8.2The product manual shall include an illustrative diagram depicting the separatingforceps with the forceps jaws opened to their maximum, along with the names andfunctions of all the components. If necessary, accompanying diagrams shall be providedto facilitate understanding.4.8.3The product manual shall include instructions for product specification.4.8.4The product manual shall include a description of the intended design purposes ofthe product.4.8.5It shall include instructions for preparation, inspection, and operation when usingthe product.4.8.6Instructions for environmental protection shall be included:——Indicate any risks related to wastes, residues and their disposal at the end of theservice life of the product;——Provide recommendations to minimize these risks.4.8.7If the separating forceps are not disposable, the instructions for use shall includedetails on acceptable cleaning, disinfection, or sterilization methods. Specify appropriatedisinfectants if necessary and list temperature, pressure, humidity, and time limits that thedevice components can withstand.6"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+@font-face { font-family: ff3; src: url(""3.ttf""); }
+.f3 { font-family:ff3,sans-serif; font-weight:normal; font-style:italic; }
+@font-face { font-family: ff4; src: url(""4.ttf""); }
+.f4 { font-family:ff4,sans-serif; font-weight:normal; font-style:normal; }"
+body,[],,"4.6Sterilization requirements (applicable to disposable products)4.6.1The separating forceps shall be sterile.4.6.2Ethylene oxide residue (applicable to products sterilized with ethylene oxide): Theresidue concentration of ethylene oxide shall be below 10μg/g.4.7Luer taper (applicable to separating forceps with an injection port)The Luer fitting shall meet the relevant requirement of GB/T 1962.4.8Product manual4.8.1The product manual shall include a clear explanation of the endoscope and itsaccessories that can be used in conjunction with the separating forceps. This informationis intended to guide users in selecting the appropriate endoscope and accessories basedon the provided instructions.4.8.2The product manual shall include an illustrative diagram depicting the separatingforceps with the forceps jaws opened to their maximum, along with the names andfunctions of all the components. If necessary, accompanying diagrams shall be providedto facilitate understanding.4.8.3The product manual shall include instructions for product specification.4.8.4The product manual shall include a description of the intended design purposes ofthe product.4.8.5It shall include instructions for preparation, inspection, and operation when usingthe product.4.8.6Instructions for environmental protection shall be included:——Indicate any risks related to wastes, residues and their disposal at the end of theservice life of the product;——Provide recommendations to minimize these risks.4.8.7If the separating forceps are not disposable, the instructions for use shall includedetails on acceptable cleaning, disinfection, or sterilization methods. Specify appropriatedisinfectants if necessary and list temperature, pressure, humidity, and time limits that thedevice components can withstand.6"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:91px;,4.6Sterilization requirements (applicable to disposable products)
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.6
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Sterilization requirements (applicable to disposable products)
+div,['txt'],position:absolute; left:90px; top:122px;,4.6.1The separating forceps shall be sterile.
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.6.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The separating forceps shall be sterile.
+div,['txt'],position:absolute; left:90px; top:154px;,4.6.2Ethylene oxide residue (applicable to products sterilized with ethylene oxide): The
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.6.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Ethylene oxide residue (applicable to products sterilized with ethylene oxide): The
+div,['txt'],position:absolute; left:90px; top:169px;,residue concentration of ethylene oxide shall be below 10μg/g.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",residue concentration of ethylene oxide shall be below 10
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",μ
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",g/g.
+div,['txt'],position:absolute; left:90px; top:200px;,4.7Luer taper (applicable to separating forceps with an injection port)
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.7
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Luer taper (applicable to separating forceps with an injection port)
+div,['txt'],position:absolute; left:90px; top:231px;,The Luer fitting shall meet the relevant requirement of GB/T 1962.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The Luer fitting shall meet the relevant requirement of GB/T 1962.
+div,['txt'],position:absolute; left:90px; top:263px;,4.8Product manual
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Product manual
+div,['txt'],position:absolute; left:90px; top:294px;,4.8.1The product manual shall include a clear explanation of the endoscope and its
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The product manual shall include a clear explanation of the endoscope and its
+div,['txt'],position:absolute; left:90px; top:309px;,accessories that can be used in conjunction with the separating forceps. This information
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",accessories that can be used in conjunction with the separating forceps. This information
+div,['txt'],position:absolute; left:90px; top:325px;,is intended to guide users in selecting the appropriate endoscope and accessories based
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",is intended to guide users in selecting the appropriate endoscope and accessories based
+div,['txt'],position:absolute; left:90px; top:341px;,on the provided instructions.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",on the provided instructions.
+div,['txt'],position:absolute; left:90px; top:372px;,4.8.2The product manual shall include an illustrative diagram depicting the separating
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The product manual shall include an illustrative diagram depicting the separating
+div,['txt'],position:absolute; left:90px; top:387px;,"forceps with the forceps jaws opened to their maximum, along with the names and"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","forceps with the forceps jaws opened to their maximum, along with the names and"
+div,['txt'],position:absolute; left:90px; top:403px;,"functions of all the components. If necessary, accompanying diagrams shall be provided"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","functions of all the components. If necessary, accompanying diagrams shall be provided"
+div,['txt'],position:absolute; left:90px; top:419px;,to facilitate understanding.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",to facilitate understanding.
+div,['txt'],position:absolute; left:90px; top:450px;,4.8.3The product manual shall include instructions for product specification.
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The product manual shall include instructions for product specification.
+div,['txt'],position:absolute; left:90px; top:481px;,4.8.4The product manual shall include a description of the intended design purposes of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The product manual shall include a description of the intended design purposes of
+div,['txt'],position:absolute; left:90px; top:497px;,the product.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the product.
+div,['txt'],position:absolute; left:90px; top:528px;,"4.8.5It shall include instructions for preparation, inspection, and operation when using"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","It shall include instructions for preparation, inspection, and operation when using"
+div,['txt'],position:absolute; left:90px; top:544px;,the product.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the product.
+div,['txt'],position:absolute; left:90px; top:575px;,4.8.6Instructions for environmental protection shall be included:
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8.6
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Instructions for environmental protection shall be included:
+div,['txt'],position:absolute; left:90px; top:606px;,"——Indicate any risks related to wastes, residues and their disposal at the end of the"
+span,['f4'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",——
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Indicate any risks related to wastes, residues and their disposal at the end of the"
+div,['txt'],position:absolute; left:90px; top:622px;,service life of the product;
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",service life of the product;
+div,['txt'],position:absolute; left:90px; top:653px;,——Provide recommendations to minimize these risks.
+span,['f4'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",——
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Provide recommendations to minimize these risks.
+div,['txt'],position:absolute; left:90px; top:684px;,"4.8.7If the separating forceps are not disposable, the instructions for use shall include"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8.7
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","If the separating forceps are not disposable, the instructions for use shall include"
+div,['txt'],position:absolute; left:90px; top:700px;,"details on acceptable cleaning, disinfection, or sterilization methods. Specify appropriate"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","details on acceptable cleaning, disinfection, or sterilization methods. Specify appropriate"
+div,['txt'],position:absolute; left:90px; top:715px;,"disinfectants if necessary and list temperature, pressure, humidity, and time limits that the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","disinfectants if necessary and list temperature, pressure, humidity, and time limits that the"
+div,['txt'],position:absolute; left:90px; top:731px;,device components can withstand.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",device components can withstand.
+div,['txt'],position:absolute; left:295px; top:783px;,6
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",6
+html,[],,"4.8.8Environmental restrictions for operation, transportation and storage: Permissibleenvironmental conditions for operation, transportation and storage shall be specified.4.9Marking and labelingThere shall be clear, easily recognizable, and securely affixed permanent markings on theproduct, including the name and/or trademark of the manufacturer or supplier.Note: For disposable products, the above information may be marked on the sterile packaging.4.10 Requirements for electrical safetyIf the separating forceps are high-frequency surgical instruments, they shall meet therequirements of GB 9706.4 and GB 9706.19.4.11Water/air permeability performance (applicable to separating forceps with aninjection port)The manufacturer shall specify requirements for the water or air injected into the injectionchannel and provide details on the test method.5 Test methods5.1Material tests5.1.1Chemical composition testThe chemical composition of metallic materials shall be analyzed using currentlyrecognized methods with accuracy reaching or superior to 1/3 of the tolerance or limit.5.1.2BiocompatibilityAll tests shall give priority to the relevant standards of GB/T 16886 as reference standardsand be conducted following their specified methods.5.1.3Test method for dissolved precipitatesPreparation of test solution: Prepare the test solution following the method given underS.N. 6 of Table 1 in GB/T 14233.1-2008.5.1.3.1Appearance: Check the appearance following the method specified in 5.1 ofGB/T 14233.1-2008.5.1.3.2pH: Test the pH following the method specified in 5.4.1 of GB/T 14233.1-2008.7"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,"4.8.8Environmental restrictions for operation, transportation and storage: Permissibleenvironmental conditions for operation, transportation and storage shall be specified.4.9Marking and labelingThere shall be clear, easily recognizable, and securely affixed permanent markings on theproduct, including the name and/or trademark of the manufacturer or supplier.Note: For disposable products, the above information may be marked on the sterile packaging.4.10 Requirements for electrical safetyIf the separating forceps are high-frequency surgical instruments, they shall meet therequirements of GB 9706.4 and GB 9706.19.4.11Water/air permeability performance (applicable to separating forceps with aninjection port)The manufacturer shall specify requirements for the water or air injected into the injectionchannel and provide details on the test method.5 Test methods5.1Material tests5.1.1Chemical composition testThe chemical composition of metallic materials shall be analyzed using currentlyrecognized methods with accuracy reaching or superior to 1/3 of the tolerance or limit.5.1.2BiocompatibilityAll tests shall give priority to the relevant standards of GB/T 16886 as reference standardsand be conducted following their specified methods.5.1.3Test method for dissolved precipitatesPreparation of test solution: Prepare the test solution following the method given underS.N. 6 of Table 1 in GB/T 14233.1-2008.5.1.3.1Appearance: Check the appearance following the method specified in 5.1 ofGB/T 14233.1-2008.5.1.3.2pH: Test the pH following the method specified in 5.4.1 of GB/T 14233.1-2008.7"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:76px;,"4.8.8Environmental restrictions for operation, transportation and storage: Permissible"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.8.8
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Environmental restrictions for operation, transportation and storage: Permissible"
+div,['txt'],position:absolute; left:90px; top:91px;,"environmental conditions for operation, transportation and storage shall be specified."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","environmental conditions for operation, transportation and storage shall be specified."
+div,['txt'],position:absolute; left:90px; top:122px;,4.9Marking and labeling
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.9
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Marking and labeling
+div,['txt'],position:absolute; left:90px; top:153px;,"There shall be clear, easily recognizable, and securely affixed permanent markings on the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","There shall be clear, easily recognizable, and securely affixed permanent markings on the"
+div,['txt'],position:absolute; left:90px; top:169px;,"product, including the name and/or trademark of the manufacturer or supplier."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","product, including the name and/or trademark of the manufacturer or supplier."
+div,['txt'],position:absolute; left:90px; top:201px;,"Note: For disposable products, the above information may be marked on the sterile packaging."
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);","Note: For disposable products, the above information may be marked on the sterile packaging."
+div,['txt'],position:absolute; left:90px; top:232px;,4.10 Requirements for electrical safety
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.10 Requirements for electrical safety
+div,['txt'],position:absolute; left:90px; top:263px;,"If the separating forceps are high-frequency surgical instruments, they shall meet the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","If the separating forceps are high-frequency surgical instruments, they shall meet the"
+div,['txt'],position:absolute; left:90px; top:278px;,requirements of GB 9706.4 and GB 9706.19.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",requirements of GB 9706.4 and GB 9706.19.
+div,['txt'],position:absolute; left:90px; top:310px;,4.11Water/air permeability performance (applicable to separating forceps with an
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",4.11
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Water/air permeability performance (applicable to separating forceps with an
+div,['txt'],position:absolute; left:90px; top:325px;,injection port)
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",injection port)
+div,['txt'],position:absolute; left:90px; top:356px;,The manufacturer shall specify requirements for the water or air injected into the injection
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The manufacturer shall specify requirements for the water or air injected into the injection
+div,['txt'],position:absolute; left:90px; top:372px;,channel and provide details on the test method.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",channel and provide details on the test method.
+div,['txt'],position:absolute; left:90px; top:403px;,5 Test methods
+span,['f2'],"font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);",5 Test methods
+div,['txt'],position:absolute; left:90px; top:434px;,5.1Material tests
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Material tests
+div,['txt'],position:absolute; left:90px; top:466px;,5.1.1Chemical composition test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Chemical composition test
+div,['txt'],position:absolute; left:90px; top:497px;,The chemical composition of metallic materials shall be analyzed using currently
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The chemical composition of metallic materials shall be analyzed using currently
+div,['txt'],position:absolute; left:90px; top:512px;,recognized methods with accuracy reaching or superior to 1/3 of the tolerance or limit.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",recognized methods with accuracy reaching or superior to 1/3 of the tolerance or limit.
+div,['txt'],position:absolute; left:90px; top:544px;,5.1.2Biocompatibility
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Biocompatibility
+div,['txt'],position:absolute; left:90px; top:575px;,All tests shall give priority to the relevant standards of GB/T 16886 as reference standards
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",All tests shall give priority to the relevant standards of GB/T 16886 as reference standards
+div,['txt'],position:absolute; left:90px; top:590px;,and be conducted following their specified methods.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",and be conducted following their specified methods.
+div,['txt'],position:absolute; left:90px; top:622px;,5.1.3Test method for dissolved precipitates
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Test method for dissolved precipitates
+div,['txt'],position:absolute; left:90px; top:653px;,Preparation of test solution: Prepare the test solution following the method given under
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Preparation of test solution: Prepare the test solution following the method given under
+div,['txt'],position:absolute; left:90px; top:668px;,S.N. 6 of Table 1 in GB/T 14233.1-2008.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",S.N. 6 of Table 1 in GB/T 14233.1-2008.
+div,['txt'],position:absolute; left:90px; top:700px;,5.1.3.1Appearance: Check the appearance following the method specified in 5.1 of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.3.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Appearance: Check the appearance following the method specified in 5.1 of
+div,['txt'],position:absolute; left:90px; top:715px;,GB/T 14233.1-2008.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB/T 14233.1-2008.
+div,['txt'],position:absolute; left:90px; top:746px;,5.1.3.2pH: Test the pH following the method specified in 5.4.1 of GB/T 14233.1-2008.
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.3.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",pH: Test the pH following the method specified in 5.4.1 of GB/T 14233.1-2008.
+div,['txt'],position:absolute; left:295px; top:783px;,7
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",7
+html,[],,"5.1.3.3Heavy metals: Test the heavy metals following the method specified in 5.6 ofGB/T 14233.1-2008.5.1.3.4Potassium permanganate-reducing substances: Test the substances followingthe method specified in 5.2 of GB/T 14233.1-2008.5.1.3.5Evaporation residue: Test the residue following the method specified in 5.5 ofGB/T 14233.1-2008.5.1.4Hardness testThe test shall be carried out with the method specified in GB/T 4340.1-2009, measuring at3 points on each piece of forceps jaws, and taking the arithmetic mean of every 3 points.5.1.5Inspection for consistency between the surface and the internal materialsInspect them visually. For products with coating on the surface, the inspection shall beperformed following the corresponding test method provided by the manufacturer.5.2Appearance5.2.1Imitate the practical operation and inspect the appearance visually.5.2.2Defects such as burrs: Feel them with hand and inspect them visually.5.3Dimensions5.3.1Inspection of maximum insertion portion widthInspect it using a universal measuring tool.5.3.2Inspection of working lengthInspect it using a universal measuring tool.5.3.3Inspection of maximum opening range of forceps jawsInspect it using a universal measuring tool.8"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,"5.1.3.3Heavy metals: Test the heavy metals following the method specified in 5.6 ofGB/T 14233.1-2008.5.1.3.4Potassium permanganate-reducing substances: Test the substances followingthe method specified in 5.2 of GB/T 14233.1-2008.5.1.3.5Evaporation residue: Test the residue following the method specified in 5.5 ofGB/T 14233.1-2008.5.1.4Hardness testThe test shall be carried out with the method specified in GB/T 4340.1-2009, measuring at3 points on each piece of forceps jaws, and taking the arithmetic mean of every 3 points.5.1.5Inspection for consistency between the surface and the internal materialsInspect them visually. For products with coating on the surface, the inspection shall beperformed following the corresponding test method provided by the manufacturer.5.2Appearance5.2.1Imitate the practical operation and inspect the appearance visually.5.2.2Defects such as burrs: Feel them with hand and inspect them visually.5.3Dimensions5.3.1Inspection of maximum insertion portion widthInspect it using a universal measuring tool.5.3.2Inspection of working lengthInspect it using a universal measuring tool.5.3.3Inspection of maximum opening range of forceps jawsInspect it using a universal measuring tool.8"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:91px;,5.1.3.3Heavy metals: Test the heavy metals following the method specified in 5.6 of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.3.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Heavy metals: Test the heavy metals following the method specified in 5.6 of
+div,['txt'],position:absolute; left:90px; top:107px;,GB/T 14233.1-2008.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB/T 14233.1-2008.
+div,['txt'],position:absolute; left:90px; top:138px;,5.1.3.4Potassium permanganate-reducing substances: Test the substances following
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.3.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Potassium permanganate-reducing substances: Test the substances following
+div,['txt'],position:absolute; left:90px; top:153px;,the method specified in 5.2 of GB/T 14233.1-2008.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the method specified in 5.2 of GB/T 14233.1-2008.
+div,['txt'],position:absolute; left:90px; top:185px;,5.1.3.5Evaporation residue: Test the residue following the method specified in 5.5 of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.3.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Evaporation residue: Test the residue following the method specified in 5.5 of
+div,['txt'],position:absolute; left:90px; top:200px;,GB/T 14233.1-2008.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",GB/T 14233.1-2008.
+div,['txt'],position:absolute; left:90px; top:232px;,5.1.4Hardness test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Hardness test
+div,['txt'],position:absolute; left:90px; top:263px;,"The test shall be carried out with the method specified in GB/T 4340.1-2009, measuring at"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","The test shall be carried out with the method specified in GB/T 4340.1-2009, measuring at"
+div,['txt'],position:absolute; left:90px; top:278px;,"3 points on each piece of forceps jaws, and taking the arithmetic mean of every 3 points."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","3 points on each piece of forceps jaws, and taking the arithmetic mean of every 3 points."
+div,['txt'],position:absolute; left:90px; top:310px;,5.1.5Inspection for consistency between the surface and the internal materials
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.1.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspection for consistency between the surface and the internal materials
+div,['txt'],position:absolute; left:90px; top:341px;,"Inspect them visually. For products with coating on the surface, the inspection shall be"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Inspect them visually. For products with coating on the surface, the inspection shall be"
+div,['txt'],position:absolute; left:90px; top:356px;,performed following the corresponding test method provided by the manufacturer.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",performed following the corresponding test method provided by the manufacturer.
+div,['txt'],position:absolute; left:90px; top:388px;,5.2Appearance
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Appearance
+div,['txt'],position:absolute; left:90px; top:419px;,5.2.1Imitate the practical operation and inspect the appearance visually.
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.2.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Imitate the practical operation and inspect the appearance visually.
+div,['txt'],position:absolute; left:90px; top:450px;,5.2.2Defects such as burrs: Feel them with hand and inspect them visually.
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.2.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Defects such as burrs: Feel them with hand and inspect them visually.
+div,['txt'],position:absolute; left:90px; top:481px;,5.3Dimensions
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Dimensions
+div,['txt'],position:absolute; left:90px; top:512px;,5.3.1Inspection of maximum insertion portion width
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.3.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspection of maximum insertion portion width
+div,['txt'],position:absolute; left:90px; top:544px;,Inspect it using a universal measuring tool.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspect it using a universal measuring tool.
+div,['txt'],position:absolute; left:90px; top:575px;,5.3.2Inspection of working length
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.3.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspection of working length
+div,['txt'],position:absolute; left:90px; top:606px;,Inspect it using a universal measuring tool.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspect it using a universal measuring tool.
+div,['txt'],position:absolute; left:90px; top:637px;,5.3.3Inspection of maximum opening range of forceps jaws
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.3.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspection of maximum opening range of forceps jaws
+div,['txt'],position:absolute; left:90px; top:668px;,Inspect it using a universal measuring tool.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspect it using a universal measuring tool.
+div,['txt'],position:absolute; left:295px; top:783px;,8
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",8
+html,[],,"5.4Service performance tests5.4.1Opening and closing testImitate the practical operation and inspect it visually.5.4.2Locking engagement forceThe locking engagement force shall be tested under simulated application conditions, withthe forceps jaws slightly open to the degree specified by the manufacturer, indicated bythe opening height at 1/3 of the front ends of the jaws. With the handle of the separatingforceps in the locked state, measure the engagement force at 1/3 of the front end of thejaw in this state, that is, the locking engagement force.5.4.3Transmission coefficient of opening forceWhen the forceps jaws open at an angle of 30°(or 70% of the maximum opening angle if70% is less than 30°), apply a force (fi) of 5N~15N to the handle, with intervals notexceeding 3N. Record the opening force (fo) generated at the front ends of the jaws,perpendicular to the bisector of the opening angle of the forceps jaws. Then, fit thecollected data using the least squares method to obtain the value offo/fi, which is thetransmission coefficient of opening force.The direction offiis shown in Figure 1, and the application point offiis determined bysimulating clinical application, it is the point where the handle is subject to force in a freestate.Figure 19"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.f3 { font-family:sans-serif; font-weight:normal; font-style:italic; }"
+body,[],,"5.4Service performance tests5.4.1Opening and closing testImitate the practical operation and inspect it visually.5.4.2Locking engagement forceThe locking engagement force shall be tested under simulated application conditions, withthe forceps jaws slightly open to the degree specified by the manufacturer, indicated bythe opening height at 1/3 of the front ends of the jaws. With the handle of the separatingforceps in the locked state, measure the engagement force at 1/3 of the front end of thejaw in this state, that is, the locking engagement force.5.4.3Transmission coefficient of opening forceWhen the forceps jaws open at an angle of 30°(or 70% of the maximum opening angle if70% is less than 30°), apply a force (fi) of 5N~15N to the handle, with intervals notexceeding 3N. Record the opening force (fo) generated at the front ends of the jaws,perpendicular to the bisector of the opening angle of the forceps jaws. Then, fit thecollected data using the least squares method to obtain the value offo/fi, which is thetransmission coefficient of opening force.The direction offiis shown in Figure 1, and the application point offiis determined bysimulating clinical application, it is the point where the handle is subject to force in a freestate.Figure 19"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:76px;,5.4Service performance tests
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Service performance tests
+div,['txt'],position:absolute; left:90px; top:107px;,5.4.1Opening and closing test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.4.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Opening and closing test
+div,['txt'],position:absolute; left:90px; top:138px;,Imitate the practical operation and inspect it visually.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Imitate the practical operation and inspect it visually.
+div,['txt'],position:absolute; left:90px; top:169px;,5.4.2Locking engagement force
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.4.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Locking engagement force
+div,['txt'],position:absolute; left:90px; top:200px;,"The locking engagement force shall be tested under simulated application conditions, with"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","The locking engagement force shall be tested under simulated application conditions, with"
+div,['txt'],position:absolute; left:90px; top:216px;,"the forceps jaws slightly open to the degree specified by the manufacturer, indicated by"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","the forceps jaws slightly open to the degree specified by the manufacturer, indicated by"
+div,['txt'],position:absolute; left:90px; top:231px;,the opening height at 1/3 of the front ends of the jaws. With the handle of the separating
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the opening height at 1/3 of the front ends of the jaws. With the handle of the separating
+div,['txt'],position:absolute; left:90px; top:247px;,"forceps in the locked state, measure the engagement force at 1/3 of the front end of the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","forceps in the locked state, measure the engagement force at 1/3 of the front end of the"
+div,['txt'],position:absolute; left:90px; top:263px;,"jaw in this state, that is, the locking engagement force."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","jaw in this state, that is, the locking engagement force."
+div,['txt'],position:absolute; left:90px; top:294px;,5.4.3Transmission coefficient of opening force
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.4.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Transmission coefficient of opening force
+div,['txt'],position:absolute; left:90px; top:325px;,When the forceps jaws open at an angle of 30°(or 70% of the maximum opening angle if
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",When the forceps jaws open at an angle of 30°(or 70% of the maximum opening angle if
+div,['txt'],position:absolute; left:90px; top:341px;,"70% is less than 30°), apply a force (fi) of 5N~15N to the handle, with intervals not"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","70% is less than 30°), apply a force ("
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",") of 5N~15N to the handle, with intervals not"
+div,['txt'],position:absolute; left:90px; top:356px;,"exceeding 3N. Record the opening force (fo) generated at the front ends of the jaws,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",exceeding 3N. Record the opening force (
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",o
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",") generated at the front ends of the jaws,"
+div,['txt'],position:absolute; left:90px; top:372px;,"perpendicular to the bisector of the opening angle of the forceps jaws. Then, fit the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","perpendicular to the bisector of the opening angle of the forceps jaws. Then, fit the"
+div,['txt'],position:absolute; left:90px; top:387px;,"collected data using the least squares method to obtain the value offo/fi, which is the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",collected data using the least squares method to obtain the value of
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",o
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",/
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",", which is the"
+div,['txt'],position:absolute; left:90px; top:403px;,transmission coefficient of opening force.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",transmission coefficient of opening force.
+div,['txt'],position:absolute; left:90px; top:434px;,"The direction offiis shown in Figure 1, and the application point offiis determined by"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The direction of
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","is shown in Figure 1, and the application point of"
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",is determined by
+div,['txt'],position:absolute; left:90px; top:450px;,"simulating clinical application, it is the point where the handle is subject to force in a free"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","simulating clinical application, it is the point where the handle is subject to force in a free"
+div,['txt'],position:absolute; left:90px; top:466px;,state.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",state.
+div,['txt'],position:absolute; left:280px; top:716px;,Figure 1
+span,['f2'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",Figure 1
+div,['txt'],position:absolute; left:295px; top:783px;,9
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",9
+html,[],,"For handles with a structure different from that shown in Figure 1, the manufacturer shallspecify the application point offi. The deviation in actual application point offishall bewithin 1mm.If the placement of device in the test affects the test result, the manufacturer shall specifythe placement of device.5.4.4Transmission coefficient of closing forceThe closing force shall be tested under simulated application conditions, with the forcepsjaws slightly open to the degree specified by the manufacturer, indicated by the openingheight at 1/3 of the front ends of the jaws. Then, apply a force (fi) of 5N~20N to the handle,with intervals not exceeding 3N. Record the closing force (fo) generated at 1/3 of the frontends of the jaws, perpendicular to the bisector of the opening angle of the forceps jaws.Then, fit the collected data using the least squares method to obtain the value offo/fi,which is the transmission coefficient of closing force.The direction offiis shown in Figure 1, and the application point offiis determined bysimulating clinical application, it is the point where the handle is subject to force in a freestate.Figure 2For handles with a structure different from that shown in Figure 2, the manufacturer shallspecify the application point offi. The deviation in actual application point offishall bewithin 1mm.If the placement of device in the test affects the test result, the manufacturer shall specifythe placement of device.10"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.f3 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,"For handles with a structure different from that shown in Figure 1, the manufacturer shallspecify the application point offi. The deviation in actual application point offishall bewithin 1mm.If the placement of device in the test affects the test result, the manufacturer shall specifythe placement of device.5.4.4Transmission coefficient of closing forceThe closing force shall be tested under simulated application conditions, with the forcepsjaws slightly open to the degree specified by the manufacturer, indicated by the openingheight at 1/3 of the front ends of the jaws. Then, apply a force (fi) of 5N~20N to the handle,with intervals not exceeding 3N. Record the closing force (fo) generated at 1/3 of the frontends of the jaws, perpendicular to the bisector of the opening angle of the forceps jaws.Then, fit the collected data using the least squares method to obtain the value offo/fi,which is the transmission coefficient of closing force.The direction offiis shown in Figure 1, and the application point offiis determined bysimulating clinical application, it is the point where the handle is subject to force in a freestate.Figure 2For handles with a structure different from that shown in Figure 2, the manufacturer shallspecify the application point offi. The deviation in actual application point offishall bewithin 1mm.If the placement of device in the test affects the test result, the manufacturer shall specifythe placement of device.10"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:75px;,"For handles with a structure different from that shown in Figure 1, the manufacturer shall"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","For handles with a structure different from that shown in Figure 1, the manufacturer shall"
+div,['txt'],position:absolute; left:90px; top:91px;,specify the application point offi. The deviation in actual application point offishall be
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",specify the application point of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",. The deviation in actual application point of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",shall be
+div,['txt'],position:absolute; left:90px; top:107px;,within 1mm.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",within 1mm.
+div,['txt'],position:absolute; left:90px; top:138px;,"If the placement of device in the test affects the test result, the manufacturer shall specify"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","If the placement of device in the test affects the test result, the manufacturer shall specify"
+div,['txt'],position:absolute; left:90px; top:153px;,the placement of device.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the placement of device.
+div,['txt'],position:absolute; left:90px; top:185px;,5.4.4Transmission coefficient of closing force
+span,['f3'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.4.4
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Transmission coefficient of closing force
+div,['txt'],position:absolute; left:90px; top:216px;,"The closing force shall be tested under simulated application conditions, with the forceps"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","The closing force shall be tested under simulated application conditions, with the forceps"
+div,['txt'],position:absolute; left:90px; top:231px;,"jaws slightly open to the degree specified by the manufacturer, indicated by the opening"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","jaws slightly open to the degree specified by the manufacturer, indicated by the opening"
+div,['txt'],position:absolute; left:90px; top:247px;,"height at 1/3 of the front ends of the jaws. Then, apply a force (fi) of 5N~20N to the handle,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","height at 1/3 of the front ends of the jaws. Then, apply a force ("
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",") of 5N~20N to the handle,"
+div,['txt'],position:absolute; left:90px; top:263px;,with intervals not exceeding 3N. Record the closing force (fo) generated at 1/3 of the front
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",with intervals not exceeding 3N. Record the closing force (
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",o
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",) generated at 1/3 of the front
+div,['txt'],position:absolute; left:90px; top:278px;,"ends of the jaws, perpendicular to the bisector of the opening angle of the forceps jaws."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","ends of the jaws, perpendicular to the bisector of the opening angle of the forceps jaws."
+div,['txt'],position:absolute; left:90px; top:294px;,"Then, fit the collected data using the least squares method to obtain the value offo/fi,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Then, fit the collected data using the least squares method to obtain the value of"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",o
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",/
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",","
+div,['txt'],position:absolute; left:90px; top:309px;,which is the transmission coefficient of closing force.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",which is the transmission coefficient of closing force.
+div,['txt'],position:absolute; left:90px; top:341px;,"The direction offiis shown in Figure 1, and the application point offiis determined by"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",The direction of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","is shown in Figure 1, and the application point of"
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",is determined by
+div,['txt'],position:absolute; left:90px; top:356px;,"simulating clinical application, it is the point where the handle is subject to force in a free"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","simulating clinical application, it is the point where the handle is subject to force in a free"
+div,['txt'],position:absolute; left:90px; top:372px;,state.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",state.
+div,['txt'],position:absolute; left:280px; top:607px;,Figure 2
+span,['f3'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",Figure 2
+div,['txt'],position:absolute; left:90px; top:637px;,"For handles with a structure different from that shown in Figure 2, the manufacturer shall"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","For handles with a structure different from that shown in Figure 2, the manufacturer shall"
+div,['txt'],position:absolute; left:90px; top:653px;,specify the application point offi. The deviation in actual application point offishall be
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",specify the application point of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",. The deviation in actual application point of
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",f
+span,['f1'],"font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);",i
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",shall be
+div,['txt'],position:absolute; left:90px; top:668px;,within 1mm.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",within 1mm.
+div,['txt'],position:absolute; left:90px; top:700px;,"If the placement of device in the test affects the test result, the manufacturer shall specify"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","If the placement of device in the test affects the test result, the manufacturer shall specify"
+div,['txt'],position:absolute; left:90px; top:715px;,the placement of device.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the placement of device.
+div,['txt'],position:absolute; left:292px; top:783px;,10
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",10
+html,[],,"5.4.5Elasticity and robustness testPut a stainless steel wire with a diameter equal to 10% of the length from the front ends ofthe forceps jaws to the center of the box joint shaft at the front ends of the separatingforceps. Close the separating forceps completely and maintain this state for 3h at roomtemperature. Then, inspect the separating forceps for cracks or permanent deformation.5.4.6Rotation testImitate the practical operation and inspect it visually.5.4.7Teeth profile test of forceps jawsObserve and compare them using a 10X magnifying glass.5.5Durability tests5.5.1High-temperature and high-pressure resistance testRepeat the high-temperature and high-pressure resistance test for 20 cycles using themethod specified in 5.4, following the instructions specified by the manufacturer.5.5.2Corrosion resistance testFor parts made of martensitic or austenitic stainless steel, conduct the test using theboiling water test method specified in YY/T 0149-2006. For parts made of other materials,disinfect and sterilize them once following the method specified by the manufacturer in themanual.5.5.3Test for capability to withstand repeated operationsImitate the practical operation.5.6Sterilization requirement tests5.6.1Sterility testConduct the test following the method specified in GB/T 14233.2, if the method forpreparing the test solution is not applicable, it can be specified by the manufacturer.5.6.2Ethylene oxide residue testConduct the test using the gas chromatographic method specified in Clause 9 of GB/T14233.1-2008.11"
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,"5.4.5Elasticity and robustness testPut a stainless steel wire with a diameter equal to 10% of the length from the front ends ofthe forceps jaws to the center of the box joint shaft at the front ends of the separatingforceps. Close the separating forceps completely and maintain this state for 3h at roomtemperature. Then, inspect the separating forceps for cracks or permanent deformation.5.4.6Rotation testImitate the practical operation and inspect it visually.5.4.7Teeth profile test of forceps jawsObserve and compare them using a 10X magnifying glass.5.5Durability tests5.5.1High-temperature and high-pressure resistance testRepeat the high-temperature and high-pressure resistance test for 20 cycles using themethod specified in 5.4, following the instructions specified by the manufacturer.5.5.2Corrosion resistance testFor parts made of martensitic or austenitic stainless steel, conduct the test using theboiling water test method specified in YY/T 0149-2006. For parts made of other materials,disinfect and sterilize them once following the method specified by the manufacturer in themanual.5.5.3Test for capability to withstand repeated operationsImitate the practical operation.5.6Sterilization requirement tests5.6.1Sterility testConduct the test following the method specified in GB/T 14233.2, if the method forpreparing the test solution is not applicable, it can be specified by the manufacturer.5.6.2Ethylene oxide residue testConduct the test using the gas chromatographic method specified in Clause 9 of GB/T14233.1-2008.11"
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:76px;,5.4.5Elasticity and robustness test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.4.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Elasticity and robustness test
+div,['txt'],position:absolute; left:90px; top:107px;,Put a stainless steel wire with a diameter equal to 10% of the length from the front ends of
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Put a stainless steel wire with a diameter equal to 10% of the length from the front ends of
+div,['txt'],position:absolute; left:90px; top:122px;,the forceps jaws to the center of the box joint shaft at the front ends of the separating
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the forceps jaws to the center of the box joint shaft at the front ends of the separating
+div,['txt'],position:absolute; left:90px; top:138px;,forceps. Close the separating forceps completely and maintain this state for 3h at room
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",forceps. Close the separating forceps completely and maintain this state for 3h at room
+div,['txt'],position:absolute; left:90px; top:153px;,"temperature. Then, inspect the separating forceps for cracks or permanent deformation."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","temperature. Then, inspect the separating forceps for cracks or permanent deformation."
+div,['txt'],position:absolute; left:90px; top:185px;,5.4.6Rotation test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.4.6
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Rotation test
+div,['txt'],position:absolute; left:90px; top:216px;,Imitate the practical operation and inspect it visually.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Imitate the practical operation and inspect it visually.
+div,['txt'],position:absolute; left:90px; top:247px;,5.4.7Teeth profile test of forceps jaws
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.4.7
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Teeth profile test of forceps jaws
+div,['txt'],position:absolute; left:90px; top:278px;,Observe and compare them using a 10X magnifying glass.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Observe and compare them using a 10X magnifying glass.
+div,['txt'],position:absolute; left:90px; top:310px;,5.5Durability tests
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.5
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Durability tests
+div,['txt'],position:absolute; left:90px; top:341px;,5.5.1High-temperature and high-pressure resistance test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.5.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",High-temperature and high-pressure resistance test
+div,['txt'],position:absolute; left:90px; top:372px;,Repeat the high-temperature and high-pressure resistance test for 20 cycles using the
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Repeat the high-temperature and high-pressure resistance test for 20 cycles using the
+div,['txt'],position:absolute; left:90px; top:387px;,"method specified in 5.4, following the instructions specified by the manufacturer."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","method specified in 5.4, following the instructions specified by the manufacturer."
+div,['txt'],position:absolute; left:90px; top:419px;,5.5.2Corrosion resistance test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.5.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Corrosion resistance test
+div,['txt'],position:absolute; left:90px; top:450px;,"For parts made of martensitic or austenitic stainless steel, conduct the test using the"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","For parts made of martensitic or austenitic stainless steel, conduct the test using the"
+div,['txt'],position:absolute; left:90px; top:466px;,"boiling water test method specified in YY/T 0149-2006. For parts made of other materials,"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","boiling water test method specified in YY/T 0149-2006. For parts made of other materials,"
+div,['txt'],position:absolute; left:90px; top:481px;,disinfect and sterilize them once following the method specified by the manufacturer in the
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",disinfect and sterilize them once following the method specified by the manufacturer in the
+div,['txt'],position:absolute; left:90px; top:497px;,manual.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",manual.
+div,['txt'],position:absolute; left:90px; top:528px;,5.5.3Test for capability to withstand repeated operations
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.5.3
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Test for capability to withstand repeated operations
+div,['txt'],position:absolute; left:90px; top:559px;,Imitate the practical operation.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Imitate the practical operation.
+div,['txt'],position:absolute; left:90px; top:590px;,5.6Sterilization requirement tests
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.6
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Sterilization requirement tests
+div,['txt'],position:absolute; left:90px; top:622px;,5.6.1Sterility test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.6.1
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Sterility test
+div,['txt'],position:absolute; left:90px; top:653px;,"Conduct the test following the method specified in GB/T 14233.2, if the method for"
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","Conduct the test following the method specified in GB/T 14233.2, if the method for"
+div,['txt'],position:absolute; left:90px; top:668px;,"preparing the test solution is not applicable, it can be specified by the manufacturer."
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);","preparing the test solution is not applicable, it can be specified by the manufacturer."
+div,['txt'],position:absolute; left:90px; top:700px;,5.6.2Ethylene oxide residue test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.6.2
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Ethylene oxide residue test
+div,['txt'],position:absolute; left:90px; top:731px;,Conduct the test using the gas chromatographic method specified in Clause 9 of GB/T
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Conduct the test using the gas chromatographic method specified in Clause 9 of GB/T
+div,['txt'],position:absolute; left:90px; top:746px;,14233.1-2008.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",14233.1-2008.
+div,['txt'],position:absolute; left:292px; top:783px;,11
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",11
+html,[],,5.7Luer taper testConduct the test according to the relevant requirements of GB/T 1962.5.8Product manual inspectionInspect the product manual provided by the manufacturer.5.9Marking and labeling inspectionVisually inspect the markings and labels on the product.5.10Electrical safety test methodConduct the test following the methods specified in GB 9706.4 and GB 9706.19.5.11Water/air permeability performanceConduct the test following the method specified by the manufacturer.6 Inspection rulesInspection rules shall be determined by the manufacturer based on the characteristics ofthe product._______________________12
+head,[],,
+meta,[],,
+style,[],,".txt { white-space:nowrap; }
+.f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.f2 { font-family:sans-serif; font-weight:bold; font-style:normal; }"
+body,[],,5.7Luer taper testConduct the test according to the relevant requirements of GB/T 1962.5.8Product manual inspectionInspect the product manual provided by the manufacturer.5.9Marking and labeling inspectionVisually inspect the markings and labels on the product.5.10Electrical safety test methodConduct the test following the methods specified in GB 9706.4 and GB 9706.19.5.11Water/air permeability performanceConduct the test following the method specified by the manufacturer.6 Inspection rulesInspection rules shall be determined by the manufacturer based on the characteristics ofthe product._______________________12
+img,[],position:absolute; left:0px; top:0px;,
+div,['txt'],position:absolute; left:90px; top:91px;,5.7Luer taper test
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.7
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Luer taper test
+div,['txt'],position:absolute; left:90px; top:122px;,Conduct the test according to the relevant requirements of GB/T 1962.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Conduct the test according to the relevant requirements of GB/T 1962.
+div,['txt'],position:absolute; left:90px; top:154px;,5.8Product manual inspection
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.8
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Product manual inspection
+div,['txt'],position:absolute; left:90px; top:185px;,Inspect the product manual provided by the manufacturer.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspect the product manual provided by the manufacturer.
+div,['txt'],position:absolute; left:90px; top:216px;,5.9Marking and labeling inspection
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.9
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Marking and labeling inspection
+div,['txt'],position:absolute; left:90px; top:247px;,Visually inspect the markings and labels on the product.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Visually inspect the markings and labels on the product.
+div,['txt'],position:absolute; left:90px; top:278px;,5.10Electrical safety test method
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.10
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Electrical safety test method
+div,['txt'],position:absolute; left:90px; top:309px;,Conduct the test following the methods specified in GB 9706.4 and GB 9706.19.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Conduct the test following the methods specified in GB 9706.4 and GB 9706.19.
+div,['txt'],position:absolute; left:90px; top:341px;,5.11Water/air permeability performance
+span,['f2'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",5.11
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Water/air permeability performance
+div,['txt'],position:absolute; left:90px; top:372px;,Conduct the test following the method specified by the manufacturer.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Conduct the test following the method specified by the manufacturer.
+div,['txt'],position:absolute; left:90px; top:403px;,6 Inspection rules
+span,['f2'],"font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);",6 Inspection rules
+div,['txt'],position:absolute; left:90px; top:434px;,Inspection rules shall be determined by the manufacturer based on the characteristics of
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",Inspection rules shall be determined by the manufacturer based on the characteristics of
+div,['txt'],position:absolute; left:90px; top:450px;,the product.
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",the product.
+div,['txt'],position:absolute; left:230px; top:497px;,_______________________
+span,['f1'],"font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);",_______________________
+div,['txt'],position:absolute; left:292px; top:783px;,12
+span,['f1'],"font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);",12

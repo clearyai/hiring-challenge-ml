@@ -1,5 +1,5 @@
 import logging
-from config import (
+from req_analysis.config import (
     OPENAI_API_TYPE,
     OPENAI_API_VERSION,
     GPT4_TURBO,
