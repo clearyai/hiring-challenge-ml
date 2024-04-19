@@ -45,6 +45,7 @@ class OpenAIClient:
                     temperature=self.temp,
                 )
                 res = res.choices[0].message
+                break
             except OpenAIError as e:
                 if i < self.num_retries - 1:
                     logger.warning("Openai API call failed. Retrying...", exc_info=True)
