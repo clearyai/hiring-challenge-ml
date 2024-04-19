@@ -53,7 +53,6 @@ class OpenAIClient:
                         "Openai API call failed. No more retries.", exc_info=True
                     )
                     raise e
-            break
 
         return res
 
