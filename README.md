@@ -2,14 +2,15 @@
 
 ## Task
 
-Write a prototype that cleans & divides two separate regulatory Documents into sections, subsections & paragraphs.
+Write a prototype that cleans & divides three separate regulatory documents into sections, subsections & paragraphs. 
+The regulatory documents are provided as pdf files in the `docs` folder.
 
 The prototype should classify each paragraph into type and subject matter. You can find the classes [here](req_analysis/models/classes.py).
 
 ## Deliverables
 
-- A Script that does the task described above (i.e., provided a set of documents, it returns the divided documents and the classified paragraphs).
-- Brief description of how you would deploy and prepare this prototype for production use.
+- A script that does the task described above (i.e., provided a set of documents, it returns the divided documents and the classified paragraphs).
+- Brief description of how you would deploy and prepare this prototype for production.
 - Brief description of how you would evaluate & QA this prototype.
 - List & priorization of potential improvements.
 
